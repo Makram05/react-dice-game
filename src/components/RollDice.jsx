@@ -20,6 +20,9 @@ const DiceContainer = styled.div`
   margin-top: 48px;
   gap: 10px;
 
+  img{
+    border: 25px;
+  }
   .dice {
     cursor: pointer;
   }
